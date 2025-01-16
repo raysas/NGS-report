@@ -6,3 +6,4 @@ title: "NGS: Genetic data analysis"
 
 ## Genetic Linkage Analysis
 
+![](image.png)
