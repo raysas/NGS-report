@@ -13,3 +13,16 @@ cols<-c('Family_number','Individual_number','Father_number','Mother_number', 'Se
 fam<-read.table('I.a.Paramlink/fam.txt')
 colnames(fam)<-cols
 fam[1:5,1:10]
+
+#q1
+for (row in 1:nrow(fam)){
+  if (fam[row,'Individual_number']==5){
+    cat(fam[row,]$marker1_1,fam[row,]$marker1_2)
+  }
+}
+
+#a3
+x=linkdat(fam)
+summary(x)
+
+#q2
