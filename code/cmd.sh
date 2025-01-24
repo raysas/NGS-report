@@ -1,0 +1,1 @@
+jupyter nbconvert --to pdf code/test.ipynb
