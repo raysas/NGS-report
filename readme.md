@@ -1,9 +1,3 @@
----
-title: "NGS: Genetic data analysis"
----
+# NGS report
 
-# I. Study of a monogenic disease: Clouston's disease
-
-## Genetic Linkage Analysis
-
-![](image.png)
+repository of genetic data analysis code
